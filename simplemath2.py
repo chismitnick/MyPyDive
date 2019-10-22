@@ -1,4 +1,4 @@
-#Writen by csamiselo 15.10.2019
+# csamiselo@github.com 15.10.2019
 
 print("This is how i count my livestock")
 print("Goats",12 + 30 + 60)

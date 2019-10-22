@@ -1,5 +1,5 @@
-#Written by csamiselo 15.10.2019
-#Simple python program to demonstrate how to use variables and name in python
+# csamiselo@github.com 15.10.2019
+#Simple python program to demonstrate how to use variables and names in python
 
 shirts  = 100 
 trousers = 200
